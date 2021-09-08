@@ -1,0 +1,16 @@
+EN: Organization|Emoticon|Location|Address|Ratio|Token|Misc|Money|Number|Date|SpaceToken|Sentence|Token|Person|Ordinal|URL|Percent|Keyword|Time|Percentage|Measurement|Date|UserID|Duration|Event|Hashtag|Location
+IT: Geopolitical|Organization|Location|Keyword|Colour|Technique|Artefact|Site|Period|Sentence|Timespan|Event|Person|Material|Location
+FR: URL|Organization|Emoticon|Keyword|Number|Date|SpaceToken|Sentence|UserID|Token|Person|Hashtag|Location
+ES: Organization|Keyword|Person|Misc|Number|Date|Location|Sentence
+DE: Organization|Location|Percent|Keyword|Address|Misc|Money|SpaceToken|Date|Sentence|Token|Person|Location
+
+
+http://dataminer-prototypes.d4science.org/wps/WebProcessingService?request=Execute&service=WPS&Version=1.0.0&gcube-token=3a8e6a79-1ae0-413f-9121-0d59e5f2cea2-843339462&lang=en-US&Identifier=org.gcube.dataanalysis.wps.statisticalmanager.synchserver.mappedclasses.transducerers.NLPHUB_NER&DataInputs=Language=en;Annotations=Organization%7CEmoticon%7CLocation%7CAddress%7CRatio%7CToken%7CMisc%7CMoney%7CNumber%7CDate%7CSpaceToken%7CSentence%7CToken%7CPerson%7COrdinal%7CURL%7CPercent%7CKeyword%7CTime%7CPercentage%7CMeasurement%7CDate%7CUserID%7CDuration%7CEvent%7CHashtag%7CLocation;TextFile=http%3A%2F%2Fdata.d4science.org%2FOHdJNHY4MVk0bUNZVmROcnpnUnZld2RuNFJaUFRJeHJHbWJQNStIS0N6Yz0
+
+http://dataminer-prototypes.d4science.org/wps/WebProcessingService?request=Execute&service=WPS&Version=1.0.0&gcube-token=3a8e6a79-1ae0-413f-9121-0d59e5f2cea2-843339462&lang=en-US&Identifier=org.gcube.dataanalysis.wps.statisticalmanager.synchserver.mappedclasses.transducerers.NLPHUB_NER&DataInputs=Language=en;Annotations=Organization%7CEmoticon%7CLocation%7CAddress%7CRatio%7CToken%7CMisc%7CMoney%7CNumber%7CDate%7CSpaceToken%7CSentence%7CToken%7CPerson%7COrdinal%7CURL%7CPercent%7CKeyword%7CTime%7CPercentage%7CMeasurement%7CDate%7CUserID%7CDuration%7CEvent%7CHashtag%7CLocation;TextFile=http%3A%2F%2Fdata.d4science.org%2FakMxU2JKdmU5NVAzcnlZaVBMTWJ2QkEyeEIwUmlCMlZHbWJQNStIS0N6Yz0
+
+
+http://dataminer-prototypes.d4science.org/wps/WebProcessingService?request=Execute&service=WPS&Version=1.0.0&gcube-token=3a8e6a79-1ae0-413f-9121-0d59e5f2cea2-843339462&lang=en-US&Identifier=org.gcube.dataanalysis.wps.statisticalmanager.synchserver.mappedclasses.transducerers.NLPHUB_NER&DataInputs=Language=it;Annotations=Geopolitical%7COrganization%7CLocation%7CKeyword%7CColour%7CTechnique%7CArtefact%7CSite%7CPeriod%7CSentence%7CTimespan%7CEvent%7CPerson%7CMaterial%7CLocation;TextFile=http%3A%2F%2Fdata.d4science.org%2FeUg3SWR5eGJqbjczcnlZaVBMTWJ2Q05OcmdxSmc5ODVHbWJQNStIS0N6Yz0
+
+
+http://dataminer-prototypes.d4science.org/wps/WebProcessingService?request=Execute&service=WPS&Version=1.0.0&gcube-token=3a8e6a79-1ae0-413f-9121-0d59e5f2cea2-843339462&lang=en-US&Identifier=org.gcube.dataanalysis.wps.statisticalmanager.synchserver.mappedclasses.transducerers.NLPHUB_NER&DataInputs=Language=fr;Annotations=URL%7COrganization%7CEmoticon%7CKeyword%7CNumber%7CDate%7CSpaceToken%7CSentence%7CUserID%7CToken%7CPerson%7CHashtag%7CLocation;TextFile=http%3A%2F%2Fdata.d4science.org%2FOWF3cnptdWEvM3YzcnlZaVBMTWJ2SDZ1VWNMUjdka3lHbWJQNStIS0N6Yz0
